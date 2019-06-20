@@ -1,3 +1,6 @@
+create a numpy array of  8x2 as having number  in each cell between 100 and 200 such that difference between each element is 5 
+
+
 #!usr/bin/python3
 import numpy as np
 import random
